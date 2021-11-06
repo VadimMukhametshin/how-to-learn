@@ -14,8 +14,6 @@
   min-height: 600px;
   max-height: 756px;
   /* выше установили ограничения для секции */
-  background-color: aquamarine; /* тестовый */
-
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
@@ -30,6 +28,17 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
+}
+
+.logo-place-header{
+  position: absolute;
+  width: 183px;
+  height: 32px;
+  background-image: url("../images/logo_place_header.svg");
+}
+
+.header__title{
+  width: 730px;
 }
 
 .font-container_font_inter_bold {
