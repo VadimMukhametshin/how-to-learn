@@ -14,6 +14,8 @@
   min-height: 600px;
   max-height: 756px;
   /* выше установили ограничения для секции */
+  background-color: aquamarine; /* тестовый */
+
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
@@ -29,3 +31,17 @@
   margin-right: 0;
   margin-top: 80px;
 }
+
+.font-container_font_inter_bold {
+  font-family: "Inter-Bold", serif;
+}
+
+.font-container_font_inter_regular {
+  font-family: "Inter-Regular", serif;
+}
+
+.font-container_font_inter_semi_bold {
+  font-family: "Inter-SemiBold", serif;
+}
+
+
