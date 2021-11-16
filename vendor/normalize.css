@@ -22,7 +22,9 @@
 
 body {
   margin: 0;
+  border: red 1px solid;
 }
+
 
 /**
  * Render the `main` element consistently in IE.
