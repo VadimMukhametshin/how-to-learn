@@ -3,4 +3,9 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: bold;
+  text-decoration:none;
+  color: #f2f2f2;
+}
+.footer__column-heading:hover{
+  opacity: 0.5;
 }
