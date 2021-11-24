@@ -1,9 +1,8 @@
 .footer__column-link {
-  margin-bottom: 10px;
-  text-decoration:none;
   color: #f2f2f2;
+  margin-bottom: 10px;
 }
 
-.footer__column-link:hover{
+.footer__column-link:hover {
   opacity: 0.5;
 }

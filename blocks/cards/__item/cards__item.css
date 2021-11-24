@@ -1,7 +1,8 @@
-.cards__item{
-  display: flex;
-  flex-direction: column;
+.cards__item {
   align-items: center;
-  width: 200px;
-  margin: 0 50px;
+  display: flex;
+  flex-basis: auto;
+  flex-direction: column;
+  margin: 0 50px 0 0;
+  width: 240px;
 }

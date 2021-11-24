@@ -1,11 +1,11 @@
-.footer__column-links{
-  margin-bottom: 10px;
-  line-height: 18px;
-  font-size: 18px;
-  text-decoration:none;
+.footer__column-links {
   color: #f2f2f2;
+  font-size: 18px;
+  line-height: 18px;
+  margin-bottom: 10px;
+  text-decoration: none;
 }
 
-.footer__column-links:hover{
+.footer__column-links:hover {
   opacity: 0.5;
 }

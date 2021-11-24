@@ -1,7 +1,7 @@
-.footer__column_content_info{
+.footer__column_content_info {
   display: flex;
   flex-direction: column;
-  line-height: 18px;
   font-size: 18px;
+  line-height: 18px;
   text-decoration: none #f2f2f2;
 }
