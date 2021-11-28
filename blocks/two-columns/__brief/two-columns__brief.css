@@ -1,8 +1,7 @@
 .two-columns__brief {
   color: #2f80ed;
-  flex-basis: 175px;
   font-size: 18px;
   font-style: normal;
   line-height: 1.2;
-  width: 20%;
+  width: 175px;
 }

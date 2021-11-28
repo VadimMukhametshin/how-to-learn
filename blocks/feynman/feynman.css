@@ -7,7 +7,7 @@
   background-size: 867px 637px;
   display: flex;
   flex-direction: column;
-  height: 890px;
+  min-height: 890px;
   position: relative;
   width: 100%;
 }
